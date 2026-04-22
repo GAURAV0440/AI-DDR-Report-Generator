@@ -69,4 +69,11 @@ Image Mapping
 
 pip install -r requirements.txt
 
-```
+```2. Add your API key
+
+Create a .env file and add:
+
+OPENROUTER_API_KEY=your_api_key_here
+
+
+
