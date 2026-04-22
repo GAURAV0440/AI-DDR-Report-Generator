@@ -65,60 +65,8 @@ Image Mapping
 ## ▶️ How to Run
 
 ### 1. Install dependencies
+```bash
 
 pip install -r requirements.txt
 
-2. Add your API key
-Create a .env file:
-OPENROUTER_API_KEY=your_api_key_here
-
-3. Run the project
-python test.py
-📄 Output
-
-After running, you will get:
-
-outputs/ddr_report.md → Final DDR report
-Extracted images → auto-saved in outputs folder
-
-📸 Sample Output Includes
-Property Issue Summary
-Area-wise Observations
-Root Cause Analysis
-Severity Assessment
-Recommended Actions
-Supporting Images
-
-🧠 Key Intelligence Used
-Combines visible defects + thermal evidence
-Detects hidden moisture using cold spots (~20–23°C)
-Identifies root causes like:
-Plumbing leakage
-Tile joint gaps
-External wall cracks
-Waterproofing failure
-
-⚠️ Limitations
-Image-to-area mapping is heuristic (based on page logic)
-Thermal analysis is global (not room-specific)
-No advanced conflict detection between reports
-
-
-🎥 Demo Video
-👉 (Add your Loom link here)
-
-### 📁 Project Structure
-
-AI-DDR-Report-Generator/
-│
-├── data/
-│   ├── Sample_Report.pdf
-│   └── Thermal_Images.pdf
-│
-├── extractor.py
-├── processor.py
-├── ai_engine.py
-├── test.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+```
