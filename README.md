@@ -26,18 +26,17 @@ This project solves that problem by building an **AI pipeline** that:
 
 ## 🧠 How It Works (Pipeline)
 
-PDF Input
-↓
-Text + Image Extraction (PyMuPDF)
-↓
-Data Structuring (Area-wise grouping)
-↓
-AI Processing (OpenAI / GPT)
-↓
-DDR Report Generation
-↓
-Image Mapping
-
+- PDF Input  
+  ↓  
+- Text + Image Extraction (PyMuPDF)  
+  ↓  
+- Data Structuring (Area-wise grouping)  
+  ↓  
+- AI Processing (OpenAI / GPT)  
+  ↓  
+- DDR Report Generation  
+  ↓  
+- Image Mapping  
 
 ---
 
