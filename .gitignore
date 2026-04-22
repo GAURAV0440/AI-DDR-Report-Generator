@@ -1,0 +1,27 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+.env
+
+# 🧪 Virtual environment
+.venv/
+venv/
+env/
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Output files (generated)
+outputs/inspection_images/
+outputs/thermal_images/
+
+# Optional: ignore generated reports (recommended)
+outputs/ddr_report.md
+outputs/ddr_report.txt
+outputs/inspection_text.txt
+outputs/thermal_text.txt
+outputs/structured_data.txt
