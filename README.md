@@ -110,6 +110,6 @@ Thermal analysis is global (not room-specific)
 No advanced conflict detection between reports
 
 🎥 Demo Video
-[(https://www.loom.com/share/ef990fcc6ac94033b74bbcf416af74d6)]
+https://www.loom.com/share/ef990fcc6ac94033b74bbcf416af74d6
 
 ---
